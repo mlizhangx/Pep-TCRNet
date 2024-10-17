@@ -21,7 +21,7 @@ The `requirements.txt` file includes the necessary Python packages. Install thes
 pip install -r requirements.txt
 ```
 
-### How does PepTCR-Net predicts the probability of recognition?
+## How does PepTCR-Net predicts the probability of recognition?
 Pep-TCRNet operates in two key steps:
 1. **Feature Engineering**:
 - This step processes different types of variables:
@@ -30,4 +30,4 @@ Pep-TCRNet operates in two key steps:
 2. **Prediction Model**:
 - The second step involes training a prediction model to evaluaate the likelihood of a TCR recognizing a specific peptide, based on the features generated in the first step.
 
-<p align="center"> <img src="figures/Pipeline.pdf" alt="Pep-TCRNet Pipeline" width="500"/> </p># Pep-TCRNet
+<p align="center"> <img src="figures/Pipeline.jpg" alt="Pep-TCRNet Pipeline" width="500"/> </p># Pep-TCRNet
