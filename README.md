@@ -19,6 +19,7 @@ The `requirements.txt` file includes the necessary Python packages. Install thes
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### How does PepTCR-Net predicts the probability of recognition?
 Pep-TCRNet operates in two key steps:
