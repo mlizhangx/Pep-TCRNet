@@ -18,4 +18,4 @@ __pycache__/
 *.ipynb
 
 # Ignore .DS_Store
-.DS_Store
+DS_Store
