@@ -1,0 +1,18 @@
+# Ignore folders
+outputs/
+datasets/
+__pycache__/
+
+# Ignore all .csv and .pdf files
+*.csv
+*.pdf
+
+# Ignore all .h5 files except specified ones
+*.h5
+!ae_best_tcr_train_model.h5
+!ed_best_train_model.h5
+!european_data_no_pe.h5
+!ne_best_train_model.h5
+
+# Ignore all Jupyter notebook files
+*.ipynb
