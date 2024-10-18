@@ -5,7 +5,7 @@
 **Pep-TCRNet** is a novel approach to constructing a prediction model that can evaluate the probability of recognition between a TCR and a peptide amino acid sequence while combining inputs such as TCR sequences, HLA types, and VJ genes. 
 
 ## Requirements
-To successfully run Pep-TCRNet, ensure the following packages and libraries are installed in your environment. The code was developed and tested using Python 3.8, and other required packages are listed below.
+To successfully run Pep-TCRNet, ensure the following packages and libraries are installed in your environment. The code was developed and tested using Python 3.8, and other required packages are listed in `requirements.txt`.
 
 ### System Requirements
 
