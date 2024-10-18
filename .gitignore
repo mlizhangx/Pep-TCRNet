@@ -16,3 +16,6 @@ __pycache__/
 
 # Ignore all Jupyter notebook files
 *.ipynb
+
+# Ignore .DS_Store
+.DS_Store
